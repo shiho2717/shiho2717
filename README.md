@@ -55,7 +55,8 @@ CRUD やモデル設計を学びながら、少しずつ機能を形にしてい
 ---
 
 ## 🏆 Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=shiho2717&no-bg=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shiho2717&show_icons=true&theme=radical)
+
 
 ---
 
