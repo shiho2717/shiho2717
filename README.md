@@ -28,7 +28,7 @@ CRUD やモデル設計を学びながら、少しずつ機能を形にしてい
 ## 🛠 Skills
 <img
   alt="my skills"
-  src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,java,ruby,rails,html,css,js,ts,react,flask,postgresql,mysql,sqlite,aws"
+  src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,ruby,rails,html,css,ts,django,postgresql,sqlite"
 />
 
 ### 🇯🇵 日本語
