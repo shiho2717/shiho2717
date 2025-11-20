@@ -55,7 +55,8 @@ CRUD やモデル設計を学びながら、少しずつ機能を形にしてい
 ---
 
 ## 🏆 Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=shiho2717&theme=gruvbox)
+![trophy](https://github-profile-trophy.vercel.app/?username=shiho2717&no-bg=true)
+
 ---
 
 ## 🧰 Tech Stack / 技術スタック
