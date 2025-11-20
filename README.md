@@ -55,7 +55,8 @@ CRUD やモデル設計を学びながら、少しずつ機能を形にしてい
 ---
 
 ## 🏆 Trophy
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shiho2717&theme=react-dark)
+![trophy](https://github-profile-trophy.vercel.app/?username=shiho2717&theme=gruvbox)
+
 
 
 
