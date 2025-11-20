@@ -55,7 +55,8 @@ CRUD やモデル設計を学びながら、少しずつ機能を形にしてい
 ---
 
 ## 🏆 Trophy
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shiho2717&show_icons=true&theme=radical)
+![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/shiho2717/shiho2717/output/github-contribution-grid-snake-dark.svg)
+
 
 
 ---
