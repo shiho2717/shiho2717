@@ -1,4 +1,4 @@
-# Shiho (しほ)
+# Shiho 
 
 ## About
 
