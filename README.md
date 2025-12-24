@@ -11,7 +11,7 @@ Webアプリケーション開発、フロントエンド実装、Java の基礎
 
 <img
   alt="skills"
-  src="https://skillicons.dev/icons?theme=dark&perline=7&i=ruby,rails,python,django,flask,java,html,css,js,ts,react,postgresql,mysql,aws,docker"
+  src="https://skillicons.dev/icons?theme=dark&perline=7&i=ruby,rails,python,django,flask,java,html,css,ts,postgresql,mysql,aws"
 />
 
 ---
